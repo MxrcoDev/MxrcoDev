@@ -1,4 +1,6 @@
+<h3 align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=16&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
+</h3>
 
 <h3 align="center">
 I'm Mxrcodev.js, a passionate developer and tech enthusiast.  
