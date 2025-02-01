@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=16&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
 
-<h3 aligh="center">
-I'm **Mxrcodev.js**, a passionate developer and tech enthusiast.  
+<h3 align="center">
+I'm Mxrcodev.js, a passionate developer and tech enthusiast.  
 
 Since I was a kid, I've been fascinated by computers and programming,  
 always eager to learn and experiment with new technologies.  
