@@ -8,7 +8,7 @@
 * ✉️  You can contact me at [work.marcodev@gmailcom](mailto:work.marcodev@gmailcom)
 
 
-<a href="https://www.github.com/MxrcoDev" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/MxrcoDev" target="_blank" rel="noreferrer" align="center"><img
 src="https://img.shields.io/github/followers/MxrcoDev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 <h2 align="center">Skills</h2>
