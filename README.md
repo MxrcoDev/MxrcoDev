@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=20&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
-
+<h2 align="center">Full-stack developer, Spigot developer, Cybersecurity passionate</h1>
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=#ffffff)
 
-Full-stack developer, Spigot developer, Cybersecurity passionate
-
+<h3>
 * 🌍  I'm based in Venice, Italy
 * ✉️  You can contact me at [work.marcodev@gmailcom](mailto:work.marcodev@gmailcom)
+</h3>
 
 <a href="https://www.github.com/MxrcoDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MxrcoDev?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
