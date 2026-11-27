@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=20&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
 <h2 align="center">Full-stack developer, Spigot developer, Cybersecurity passionate</h1>
 
-<!-- Dark mode -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23ffffff#gh-dark-mode-only)
-<!-- Light mode -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23010409#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23010409">
+  <img alt="MxrcoDev.js" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23010409">
+</picture>
 
 
 * 🌍  I'm based in Venice, Italy
