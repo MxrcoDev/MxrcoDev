@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=20&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
 <h2 align="center">Full-stack developer, Spigot developer, Cybersecurity passionate</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=20&section=header&reversal=false&text=MarcoDev.js&textBg=false&fontSize=100&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=20&section=header&reversal=false&text=MarcoDev.js&textBg=false&fontColor=010409&fontSize=100&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
-</picture>
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=ffffff#gh-dark-mode-only)
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=010409#gh-light-mode-only)
 
 
 * 🌍  I'm based in Venice, Italy
