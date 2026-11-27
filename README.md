@@ -2,10 +2,11 @@
 <h2 align="center">Full-stack developer, Spigot developer, Cybersecurity passionate</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23010409">
-  <img alt="MxrcoDev.js" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=%23010409">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=20&section=header&reversal=false&text=MarcoDev.js&textBg=false&fontSize=100&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=20&section=header&reversal=false&text=MarcoDev.js&textBg=false&fontColor=010409&fontSize=100&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 
 
 * 🌍  I'm based in Venice, Italy
