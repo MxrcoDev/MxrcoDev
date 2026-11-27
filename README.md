@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=20&text=Hi,%20There!&textBg=false&fontAlignY=40&reversal=false&animation=fadeIn)
 <h2 align="center">Full-stack developer, Spigot developer, Cybersecurity passionate</h1>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=#ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=#ffffff#gh-dark-mode-only)
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=20&text=MxrcoDev.js&textBg=false&reversal=false&animation=fadeIn&fontColor=#010409#gh-light-mode-only)
 
 
 * 🌍  I'm based in Venice, Italy
